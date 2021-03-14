@@ -1,0 +1,12 @@
+* {box-sizing: border-box;}
+
+body {
+    background-image: url('https://st4.depositphotos.com/13324256/22824/i/1600/depositphotos_228244140-stock-photo-diabetes-lettering-made-wooden-cubes.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+.instructions{
+    padding-left: 300px;
+}
